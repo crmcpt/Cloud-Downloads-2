@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8248",
+  "folder": "YouTube__watch_20260527174733_bcc7c2",
+  "base_name": "7AA4W5xlo1o_7AA4W5xlo1o_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/crmcpt/Cloud-Downloads-2/releases/tag/co-releases-v1-8248",
+  "files": [
+    {
+      "name": "7AA4W5xlo1o_7AA4W5xlo1o_720p.mp4",
+      "url": "https://github.com/crmcpt/Cloud-Downloads-2/releases/download/co-releases-v1-8248/7AA4W5xlo1o_7AA4W5xlo1o_720p.mp4",
+      "api_url": "https://api.github.com/repos/crmcpt/Cloud-Downloads-2/releases/assets/431302593",
+      "id": 431302593,
+      "size": 59706748,
+      "download_count": 0
+    }
+  ]
+}
